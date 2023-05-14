@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <link rel="icon" type="image/x-icon" href="Logo/trophyIcon.png" />
+    <title>Enlight</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>💡 Enlight</h1>
+        <div class="file-upload-container">
+          <p id="file-upload-status">No file selected</p>
+          <button id="file-upload-button">Select a file</button>
+        </div>
+      </div>
+      <div id="game-title"></div>
+      <div class="main">
+        <img class="icon" id="faceIcon" src="Logo/faceIcon.png" alt="Logo" />
+        <div id="question"></div>
+        <input
+          placeholder="Enter your answer here"
+          id="answer"
+          type="text"
+          style="display: none"
+        />
+        <form id="answer-form">
+          <div id="win-container">
+            <img id="trophyIcon" src="Logo/trophyIcon.png" alt="Logo" />
+            <h2 id="win-title">Challenge completed</h2>
+            <button id="replay-button" style="display: none">Replay</button>
+          </div>
+          <button id="submit-answer" style="display: none">Submit</button>
+        </form>
+      </div>
+      <div class="footer">
+        <h2>Already answered</h2>
+        <ul id="previous-answers"></ul>
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
