@@ -32,7 +32,7 @@ No special installation requirements are needed as this is a standalone web appl
 
 ## Acknowledgements
 
-Thank you to Marvel Azarjan for the opportunity to develop this web application.
+Thank you to me for the opportunity to develop this web application.
 
 ## License
 
