@@ -22,16 +22,19 @@ No special installation requirements are needed as this is a standalone web appl
 
 ## Screenshots
 1
-![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/b700f2ce-5e09-44ba-b25c-6b108ba6165e)
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/27e1a8c6-678f-407b-97b2-5ca7690b3000)
+
 2
-![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/181944ce-d3ad-4244-9f96-c38c45a92fa0)
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/9ec0150e-8d01-4e9a-8c5b-b583c3f26aa8)
+
 3
-![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/1f8de493-17f1-4395-9ba3-491d546fa65a)
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/76c558d1-546f-4a94-bcfc-2af625be3edb)
+
 # Figma Design
 ![238202108-320abad1-5008-405b-9d7e-5dc960ceb04f](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/eb61cceb-9b8b-46ef-a1c6-8b1b21cc2cb9)
 
 # The app is fully responsive for all screen sizes
-![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/027f2145-b519-4eb8-944f-59614594617a)
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/550b183d-2d49-4649-844c-897c71f9728b)
 
 ## Acknowledgements
 
