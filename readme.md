@@ -20,6 +20,13 @@ No special installation requirements are needed as this is a standalone web appl
 - Developer: Jeetpal Singh
 - Project Completion Date: 2023-05-14
 
+## Screenshots
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/b700f2ce-5e09-44ba-b25c-6b108ba6165e)
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/181944ce-d3ad-4244-9f96-c38c45a92fa0)
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/1f8de493-17f1-4395-9ba3-491d546fa65a)
+# Figma Design
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/320abad1-5008-405b-9d7e-5dc960ceb04f)
+
 ## Acknowledgements
 
 Thank you to Marvel Azarjan for the opportunity to develop this web application.
