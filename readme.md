@@ -30,6 +30,9 @@ No special installation requirements are needed as this is a standalone web appl
 # Figma Design
 ![238202108-320abad1-5008-405b-9d7e-5dc960ceb04f](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/eb61cceb-9b8b-46ef-a1c6-8b1b21cc2cb9)
 
+# The app is fully responsive for all screen sizes
+![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/027f2145-b519-4eb8-944f-59614594617a)
+
 ## Acknowledgements
 
 Thank you to me for the opportunity to develop this web application.
