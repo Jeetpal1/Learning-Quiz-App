@@ -28,7 +28,7 @@ No special installation requirements are needed as this is a standalone web appl
 3
 ![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/1f8de493-17f1-4395-9ba3-491d546fa65a)
 # Figma Design
-![image](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/320abad1-5008-405b-9d7e-5dc960ceb04f)
+![238202108-320abad1-5008-405b-9d7e-5dc960ceb04f](https://github.com/Jeetpal1/Learning-Quiz-App/assets/70360391/eb61cceb-9b8b-46ef-a1c6-8b1b21cc2cb9)
 
 ## Acknowledgements
 
