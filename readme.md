@@ -1,4 +1,4 @@
-# Simple Learning Web App
+# Learning Quiz Web App
 
 This is a simple web app designed for learning purposes. The user uploads a text file containing two columns, question and answer. The first question gets displayed and after a successful user input, another one is displayed. The user iterates through the list and at the end, they can see that they have completed the whole list.
 
